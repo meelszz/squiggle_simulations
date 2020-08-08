@@ -1,3 +1,5 @@
+# From tutorial: https://ipython-books.github.io/123-simulating-an-ordinary-differential-equation-with-scipy/
+
 import numpy as np
 import scipy.integrate as spi
 import matplotlib.pyplot as plt
